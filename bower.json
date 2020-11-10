@@ -22,5 +22,7 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependency": {
+    "amcharts3": "~3.21.15"
 }
