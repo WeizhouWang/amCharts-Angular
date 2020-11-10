@@ -23,6 +23,6 @@
     "test",
     "tests"
   ],
-  "dependency": {
+  "dependencies": {
     "amcharts3": "~3.21.15"
 }
